@@ -8,4 +8,6 @@ git add . - adds all files in git repository
 
 git commit -m "  " --creates a commit with a message
 
-clear - clears the terminal
+git branch -show local branches in the repo, as well as the current active branch
+git checkout branchname - allows switching branches
+git checkout -b branchname - creates a new branch, copies what's in the current active branchg
